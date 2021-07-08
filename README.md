@@ -19,6 +19,8 @@ Congrats! You have just installed it!
 2. Press the button.
 3. Observe the result.
 
+If you don't like what you've got, you can do Ctrl-Z (Cmd-Z).
+
 ### License and responsibility
 
 Distributed under MIT license. Check out LICENSE file. 
