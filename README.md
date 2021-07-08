@@ -1,6 +1,7 @@
 # Time Shift Button
 
-This is a simple plugin for After Effects. One button that shifts layers and keys starting from a current time point.
+A simple plugin for After Effects. One button that shifts layers and keys starting from a current time point. 
+
 
 ## License
 The MIT License (MIT)
