@@ -17,7 +17,7 @@ Congrats! You have just installed it!
 
 1. Time in edit box time in seconds how much you want to move layers (say, 1.5)
 2. Press the button.
-3. Observe the result
+3. Observe the result.
 
 ### License and responsibility
 
