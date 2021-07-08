@@ -2,6 +2,8 @@
 
 A simple plugin for After Effects. One button that shifts layers and keys starting from a current time point. 
 
+YT video to explain how to install and use the button: https://www.youtube.com/watch?v=XvEb4zJp6Sw
+
 ### Installation
 
 1. Download shift.jsx
