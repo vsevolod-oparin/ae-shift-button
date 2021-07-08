@@ -11,7 +11,7 @@ A simple plugin for After Effects. One button that shifts layers and keys starti
 5. Window panel -> to the bottom shift.jsx.
 6. Plug the opened window to the place you like.
 
-Congrats you have just installed it!
+Congrats! You have just installed it!
 
 ### Usage
 
