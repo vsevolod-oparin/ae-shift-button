@@ -2,14 +2,25 @@
 
 A simple plugin for After Effects. One button that shifts layers and keys starting from a current time point. 
 
+### Installation
 
-## License
-The MIT License (MIT)
+1. Download shift.jsx
+2. Open Adobe After Effects (AE) and install it File -> Scripts -> Install ScriptUI Panel -> choose shift.jsx
+3. Reopen AE.
+4. Open your project.
+5. Window panel -> to the bottom shift.jsx.
+6. Plug the opened window to the place you like.
 
-Copyright (c) 2021 Vsevolod Oparin
+Congrats you have just installed it!
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### Usage
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+1. Time in edit box time in seconds how much you want to move layers (say, 1.5)
+2. Press the button.
+3. Observe the result
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+### License and responsibility
+
+Distributed under MIT license. Check out LICENSE file. 
+
+The code is open-sourced. The author doesn't take any responsibility on the usage of this plugin. Do it on your risk.
